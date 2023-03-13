@@ -1,4 +1,4 @@
-# Github-Activity Data Pipeline
+# Github-Activity Data Pipeline On GCP
 ## Architecture
 
 ![Untitled Diagram](https://user-images.githubusercontent.com/102229086/204534347-1607a5cf-9589-46e0-a6ef-666cb8ff3888.jpg)
